@@ -18,7 +18,7 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/aditi-sharma26/YOLOv8.git
 ```
 - Goto the cloned folder.
 ```
@@ -73,10 +73,6 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ![](./figure/figure3.png)
 
-### Watch the Complete Step by Step Explanation
-
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=9jRRZ-WL698)
 
 
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/9jRRZ-WL698/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=9jRRZ-WL698))
 
